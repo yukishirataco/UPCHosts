@@ -1,3 +1,4 @@
+#Powered by Yukino Shiratama 2019.4.22
 #默认内容
 127.0.0.1 localhost
 #蒲公英PT，防止路由器下默认走IPv4打不开
@@ -25,3 +26,7 @@
 #数字石大跳转与主站
 211.87.177.10 cas.upc.edu.cn
 211.87.177.11 i.upc.edu.cn
+#各类实用站点
+211.87.177.3 learn.upc.edu.cn
+#教务系统，不知道登录之后为什么变成IP地址了
+211.87.177.34 jwxt.upc.edu.cn
